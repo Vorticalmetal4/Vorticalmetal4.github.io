@@ -7,9 +7,9 @@
 ### Fight Game
 - Repository: 
 - Youtube:
-### Rhytmic Death
-- Repository : https://github.com/Vorticalmetal4/RhythmicDeath
-- Youtube : 
+### Rhythmic Death
+- Repository: https://github.com/Vorticalmetal4/RhythmicDeath
+- Youtube: 
 
 ## Experiments using Unreal 5
 ### Soundwave
@@ -21,7 +21,7 @@ Cubes array which change their transformation based on music
 - Youtube: https://www.youtube.com/watch?v=V_f2YSUFfUE&ab_channel=ErickBlas
 
 ## Games with C++ and SDL2
-The following games were developed using C++ and SDL2. Some aspects like the rotations, collision system, raycast ant the common shapes (triangles, circles, etc.) were created from scratch with only the functions to create lines and drawing provided by SDL2. Each of them has a quick demostration video and the source code can be found in the next repository: https://github.com/Vorticalmetal4/ProyectosErick.
+The following games were developed using C++ and SDL2. Some aspects like the rotations, collision system, raycast and the common shapes (triangles, circles, etc.) were created from scratch with only the functions to create lines and drawing provided by SDL2. Each of them has a quick demostration video and the source code can be found in the next repository: https://github.com/Vorticalmetal4/ProyectosErick.
 
 ### Asteroids: https://www.youtube.com/watch?v=3SbCAthq7Ak&ab_channel=ErickBlas
 ### Breakout: https://www.youtube.com/watch?v=A9MUv1CbFeA&ab_channel=ErickBlas
