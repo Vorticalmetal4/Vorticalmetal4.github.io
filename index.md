@@ -5,11 +5,12 @@
 - Repository: https://github.com/Vorticalmetal4/CrashClone
 - Youtube: https://youtu.be/KoYc-2_YmQM
 ### Fight Game
-- Repository: 
-- Youtube:
-### Rhythmic Death
+- Repository: https://github.com/Vorticalmetal4/FightGame
+- Knight gameplay: https://youtu.be/mCovnVmwvrs
+- Archer gameplay: https://youtu.be/aFk7gvusq1Q
+### Rhythmic Death (Multiplayer in process)
 - Repository: https://github.com/Vorticalmetal4/RhythmicDeath
-- Youtube: 
+- Youtube: https://youtu.be/RerX633fH8I
 
 ## Experiments using Unreal 5
 ### Soundwave
