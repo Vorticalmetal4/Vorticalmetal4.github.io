@@ -9,7 +9,7 @@ I'm coding a multiplayer game where two player have to work together to beat a l
 
 ### Tracer's Abilities
 - Repository: https://github.com/Vorticalmetal4/Tracer
-- -Youtube: https://youtu.be/P7f1AZ16_AM
+- Youtube: https://youtu.be/P7f1AZ16_AM
 ### Crash Clone
 - Repository: https://github.com/Vorticalmetal4/CrashClone
 - Youtube: https://youtu.be/KoYc-2_YmQM
